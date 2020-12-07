@@ -9,5 +9,3 @@ branch issue#1 step2
 ===================
 # Fix another bug
 
-
-
